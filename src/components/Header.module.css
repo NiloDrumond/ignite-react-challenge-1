@@ -1,0 +1,7 @@
+.container {
+  width: 100%;
+  height: calc(20% - 1.7rem);
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
